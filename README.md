@@ -28,3 +28,6 @@ Assuming you have spreadsheet compare 2016 (or Office 365) installed, it should 
 Spreadsheet Compare will simply tell you what changed between files. It has no facilities to perform the merge of the changes. 
 
 You can use this to manually update your working copy, mark conflicts as resolved, and perform a manual merge-commit.
+
+## git/svn都可用  
+## 新版本的windows已经自带Spreadsheet Compare插件了，在搜索栏能搜索到。所以vbs脚本里改成了windows默认的快捷方式.
