@@ -31,3 +31,5 @@ You can use this to manually update your working copy, mark conflicts as resolve
 
 ## git/svn都可用  
 ## 新版本的windows已经自带Spreadsheet Compare插件了，在搜索栏能搜索到。所以vbs脚本里改成了windows默认的快捷方式.
+
+## 新增bat文件，直接下载，右键管理员运行即可。
